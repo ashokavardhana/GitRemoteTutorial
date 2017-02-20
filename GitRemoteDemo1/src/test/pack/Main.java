@@ -8,5 +8,6 @@ public class Main {
 		new ClassA().displayGreeting();
 		
 		System.out.println("Test 1");
+		System.out.println("Test 2");
 	}
 }
