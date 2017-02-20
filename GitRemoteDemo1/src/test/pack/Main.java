@@ -6,5 +6,7 @@ public class Main {
 		System.out.println("from Main");
 		
 		new ClassA().displayGreeting();
+		
+		System.out.println("Test 1");
 	}
 }
